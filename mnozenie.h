@@ -1,5 +1,2 @@
 
-double mnozenie(double a, double b)
-{
-    
-}
+double mnozenie(double a, double b);
