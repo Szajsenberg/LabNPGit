@@ -1,3 +1,1 @@
-double dodawanie(float a,float b){
-
-}
+double dodawanie(float a,float b);
