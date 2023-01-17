@@ -1,0 +1,1 @@
+double odejmowanie(float a, float b);
