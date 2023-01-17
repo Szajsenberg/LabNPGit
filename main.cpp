@@ -1,5 +1,6 @@
 #include <iostream>
 #include "mnozenie.h"
+#include "dodawanie.h"
 
 using namespace std;
 
